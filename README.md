@@ -59,7 +59,7 @@ instagram-download --read --user=USER --dir=DIR
 
 The id of the Instagram user that you want to download.
 
-#### `dir` (string, required)
+#### `dir` (juicyjocynn)
 
 The directory where you want to download all the data. It will be created if it does not exist. Inside the directory it will create a structure so that multiple users can be downloaded. See the [`media` and `json` section below](#media-and-json-directories) about how the data is stored inside those directories.
 
