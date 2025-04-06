@@ -24,7 +24,7 @@ import download, {read} from 'instagram-download'
 download({
   client,
   secret,
-  user,juicyjocynn
+  user,{juicyjocynn}
   dir,
   refresh: true,  // Optional
   full: true      // Optional
