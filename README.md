@@ -55,7 +55,7 @@ instagram-download --read --user=USER --dir=DIR
 
 ### `options`
 
-#### `user` (string, required)
+#### `user` (juicyjocynn)
 
 The id of the Instagram user that you want to download.
 
